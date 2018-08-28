@@ -2,7 +2,9 @@
 
 void setup() {
     // put your setup code here, to run once:
-    pinMode(DD1,INPUT_PULLUP)
+    pinMode(DD1,INPUT_PULLUP);
+    digitalWrite(DD1,HIGH);
+    
 }
 
 void loop() {
