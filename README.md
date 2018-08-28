@@ -11,4 +11,5 @@ Los pasos son:
 - Guardar el fichero crtl+s
 - Almacenar los cambio provisionalmente en el SCV pulsar el +
 - Confirmar (commit) . Comentario y ctrl+enter
+- Sincronizar 
 
