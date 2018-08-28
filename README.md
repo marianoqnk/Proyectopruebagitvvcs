@@ -7,3 +7,8 @@ Cuando cambio algo en el fichero aparece un circulo en la pestaña correspondien
 Una vez guardado aparece en los proyectos una M de que el archivo ha sido modificado ademas en el icono de ersiones aparece un 1 indicando que hay un fichero modificado que no se ha aprobado. Ahora hay que aprobar la modificación a ser posible añadiendo un comentario de lo que se ha hecho en esa versión. Podemos almacenar los cambios temporalmente para poder hacer más. Para generar la versión escribir un mensaje y crtl+enter.
 Con esto hemos confirmado los cambios, pero no se han subido a la WEB estan en el repositorio local, en el cual no está esto que esty escribiendo porque todavia no lo he guardado.
 Si ahora sincronizo, entonces se sube a la web.
+Los pasos son:
+- Guardar el fichero crtl+s
+- Almacenar los cambio provisionalmente en el SCV pulsar el +
+- Confirmar (commit) . Comentario y ctrl+enter
+
