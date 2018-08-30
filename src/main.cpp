@@ -17,6 +17,7 @@ void setup() {
 
 void loop() {
     // put your main code here, to run repeatedly:
+    //estos cambios esan en el master
     int k=0;
     while( k<1000){k++;delay(1000);}
     mifuncion();
