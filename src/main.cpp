@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <Adafruit_CPlay_NeoPixel.h>
 int n=13;
 
 void mifuncion(){
@@ -21,6 +22,7 @@ void loop() {
     int k=0;
     while( k<1000){k++;delay(1000);}
     mifuncion();
+
     //esto corresponde a la rama prueba de concepto
 }
 
