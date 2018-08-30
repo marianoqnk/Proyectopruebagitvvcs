@@ -21,5 +21,6 @@ void loop() {
     int k=0;
     while( k<1000){k++;delay(1000);}
     mifuncion();
+    //esto corresponde a la rama prueba de concepto
 }
 
